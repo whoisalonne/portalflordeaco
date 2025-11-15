@@ -370,12 +370,21 @@
     font-size: 3vw;
   }
 
-  #suptitulo, .txt-v {
+  #suptitulo {
     font-size: 2.8vw;
   }
 
+  .txt-v, .violencia-caption, .violencia-table, summary {
+    font-size: 3.5vw;
+  }
+
+  .txt-v {
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+  }
+
   h2 {
-  font-size: 3.5vw;
+  font-size: 4.5vw;
 }
 
 #dates {
@@ -384,6 +393,14 @@
     justify-content: center;
 }
 .img-v {
-    width: 70vw;
+    width: 75vw;
 }
+
+.violencia-table {
+    max-width: 70vw;
 }
+
+footer, .detalhes {
+    font-size: 3vw;
+}
+ }
