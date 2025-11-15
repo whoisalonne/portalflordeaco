@@ -52,13 +52,17 @@
      font-size: 1.7vw;
  }
 
+ #logo {
+    font-size: 1.5vw;
+ }
+
  #lista-cabeca:hover :not(:hover) {
      color: gray;
  }
 
  #lista-cabeca li {
      margin-right: 2vw;
-     font-size: 1.5vw;
+    font-size: 1.5vw;
      cursor: pointer;
  }
 
@@ -348,3 +352,9 @@
      font-weight: bold;
      text-align: center;
  }
+
+ @media (max-width: 430px) {
+  #lista-cabeca li, #logo {
+    font-size: 3vw;
+  }
+}
