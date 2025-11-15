@@ -91,6 +91,10 @@
      transition: 0.3s ease;
  }
 
+ #steel {
+    color: #5e5959;
+ }
+
  main {
      height: 100vh;
      text-transform: uppercase;
