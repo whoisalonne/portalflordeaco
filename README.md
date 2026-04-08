@@ -4,7 +4,7 @@ Projeto desenvolvido como atividade extensionista com objetivo de utilizar a tec
 
 O portal reúne conteúdos educativos, orientações e canais oficiais de denúncia de forma acessível e direta.
 
-🎯 Objetivo do projeto
+🎯 OBJETIVO DO PROJETO
 
 O Flor de Aço foi criado para:
 
@@ -16,7 +16,7 @@ Utilizar tecnologia para impacto social positivo
 
 O público principal é a comunidade de Entre Rios – BA, mas o conteúdo é útil para qualquer pessoa.
 
-🧠 Temas abordados no site
+🧠 TEMAS ABORDADADOS NO SITE
 
 O portal apresenta conteúdos sobre:
 
@@ -28,7 +28,7 @@ Violência moral
 
 Além de mensagens de conscientização e incentivo à denúncia.
 
-☎️ Canais de ajuda divulgados
+☎️ CANAIS DE AJUDA DIVULGADOS
 
 O site direciona para serviços oficiais:
 
@@ -38,7 +38,7 @@ Direitos Humanos — 100
 
 O portal possui caráter educativo e informativo, não substituindo atendimento profissional.
 
-💻 Tecnologias utilizadas
+💻 TECNOLOGIAS UTILIZADAS
 
 Projeto desenvolvido com tecnologias web básicas:
 
@@ -47,7 +47,7 @@ CSS3
 
 Site estático com foco em acessibilidade e leitura simples.
 
-📌 Estrutura do site
+📌 ESTRUTURA DO SITE
 
 O portal é dividido em seções principais:
 
@@ -61,16 +61,16 @@ Desenvolvido como atividade extensionista da graduação em Análise e Desenvolv
 
 Objetivo acadêmico: aplicar conhecimentos técnicos em benefício da sociedade.
 
-👨‍💻 Autor
+👨‍💻 AUTOR
 
 Janderson Lima
 Estudante de Análise e Desenvolvimento de Sistemas
 
-🤝 Apoio
+🤝 APOIO
 
 Projeto desenvolvido com apoio da instituição de ensino e parceiros que incentivam tecnologia com responsabilidade social.
 
-⚠️ Aviso importante
+⚠️ AVISO IMPORTANTE
 
 Este portal tem caráter educativo e informativo.
 Em situações de emergência, procure ajuda imediata através dos canais oficiais.
